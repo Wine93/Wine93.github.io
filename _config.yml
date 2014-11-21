@@ -1,0 +1,43 @@
+permalink: /:year/:month/:day/:title.html
+paginate: 10
+markdown: redcarpet
+
+# 作者信息
+author: 
+  name: Wine93
+  email: wine19930114@gmail.com
+  link: Wine93.github.io
+  github: http://github.com/Wine93
+
+# 站点信息
+title: Wine93's blog
+description: Wine93's blog
+url: Wine93.github.io
+rss_url: /pages/atom.xml
+
+# gravatar头像及Favicon
+gavatar: /public/img/Wine93.jpg
+favicon: /public/img/Wine93.jpg
+
+# google analytics 设置
+ga:
+  id: UA-55064621-1
+  url: Wine93.github.io
+
+# disqus 设置
+disqus:
+  shortname: wine93githubio
+
+# 主题设置，自动激活某个标签
+active: 读书
+
+# 首页除了最新文章外显示分类
+cates: 
+  - Learning-notes
+
+# 中文本地化
+locals:
+  tags: 标签
+  about: 关于
+  newest: 最新文章
+  archive: 归档
